@@ -3,4 +3,5 @@ document.main.remove()
 
 /* Create your new element here and assign it to newHeader */
 const newHeader = null;
-document
+document.createElement(h1)
+let
