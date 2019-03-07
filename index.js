@@ -5,3 +5,4 @@ myMain.remove()
 /* Create your new element here and assign it to newHeader */
 const newHeader = null;
 document.createElement(h1)
+
