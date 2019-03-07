@@ -6,7 +6,7 @@ myMain.remove()
 let newHeader = document.createElement('h1');
 
 newHeader.id = "victory"
-newHeader.innerText = "Greg is the Champion!"
+newHeader.innerText = "Greg is the champion!"
 document.body.appendChild(newHeader)
 
 
