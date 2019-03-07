@@ -3,7 +3,7 @@ let myMain = document.querySelector('#main')
 myMain.remove()
 
 
-let newHeader = document.createElement(h1);
+let newHeader = document.createElement('h1');
 
 newHeader.id = "victory"
 newHeader.innerText = "Greg is the Champion!"
