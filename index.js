@@ -6,3 +6,4 @@ myMain.remove()
 const newHeader = null;
 document.createElement(h1)
 
+
