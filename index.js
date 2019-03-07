@@ -3,7 +3,8 @@ let myMain = document.querySelector('#main')
 myMain.remove()
 
 /* Create your new element here and assign it to newHeader */
-const newHeader = null;
-document.createElement(h1)
+const newHeader = document.createElement(h1);
+
+
 
 
